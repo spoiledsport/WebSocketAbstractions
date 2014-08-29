@@ -1,4 +1,4 @@
-﻿#if K10
+#if ASPNETCORE50
 using System;
 using System.Runtime;
 
