@@ -1,5 +1,6 @@
 {
     "version": "1.0.0-*",
+    "description": "WebSocket abstract base class.",
     "frameworks": {
         "net45": { },
         "aspnetcore50": {
